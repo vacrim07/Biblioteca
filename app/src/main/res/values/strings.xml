@@ -1,0 +1,20 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">Bilbioteca</string>
+    <string name="action_settings">Settings</string>
+    <!-- Main Activity -->
+    <string name="main_activity_name">Servicio de Bilbioteca UdeA</string>
+    <string name="welcome">Bienvenido(a)</string>
+    <string name="select_technology">Seleccione la tecnología a consultar</string>
+    <string-array name="technologies">
+        <item> </item>
+        <item>PHP</item>
+        <item>MySQL</item>
+        <item>JavaScript</item>
+        <item>CSS</item>
+        <item>HTML5</item>
+        <item>Apache</item>
+    </string-array>
+    <string name="recent_queries">Búsquedas recientes</string>
+    <string name="title_activity_books">Resultado de la búsqueda</string>
+</resources>
